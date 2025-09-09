@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="spinner_items">
+        <item> DS</item>
+        <item>DAA</item>
+        <item>OR</item>
+        <item>DBMS</item>
+    </string-array>
+</resources>
